@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "886045436088",
+    "firebase_url": "https://arcadeproject-24f32.firebaseio.com",
+    "project_id": "arcadeproject-24f32",
+    "storage_bucket": "arcadeproject-24f32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886045436088:android:83591f4cfe0b5a52",
+        "android_client_info": {
+          "package_name": "com.example.kanyalapc.arcade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886045436088-1oak91mljuudoegf3thv6agunjklmis3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanyalapc.arcade",
+            "certificate_hash": "3c8c1a414599101c6bf2cf2558aa6fa096ece309"
+          }
+        },
+        {
+          "client_id": "886045436088-5jrpgvhm55r4aoktctbgpee7hqjv6o7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQLe642Mu0VKhTNgzz-nTQeGCduWcIWaU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886045436088-5jrpgvhm55r4aoktctbgpee7hqjv6o7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

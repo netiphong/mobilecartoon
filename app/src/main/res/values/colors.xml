@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff8512</color>
+    <color name="colorPrimaryDark">#ab5217</color>
+
+
+    <color name="refresh">#803e00</color>
+    <color name="refresh1">#ff49c8</color>
+    <color name="refresh2">#ab174d</color>
+
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#ffcc67</color>
+    <color name="yello">#ffa600</color>
+    <color name="green">#bf6c00</color>
+    <color name="colorAccent">#8f5d28</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
